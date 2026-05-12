@@ -70,7 +70,7 @@ To build strong Python fundamentals required for:
 
 ##  Author
 
-** Lakshmi Tammana **
+Lakshmi Tammana 
 B.Tech CSE (AI & ML)
 
 
